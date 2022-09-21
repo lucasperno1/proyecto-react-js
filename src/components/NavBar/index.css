@@ -1,0 +1,20 @@
+
+.navBar {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #f1f1f1;
+  padding: 20px;
+  list-style: none;
+  text-decoration: none;
+  align-items: center;
+}
+
+.navBarButtons {
+  text-decoration: none;
+  color: black;
+  font-family: 'IBM Plex Serif', serif;
+  font-size: 18px;
+  border: 2px solid black;
+  padding: 13px;
+  border-radius: 10px;
+}
